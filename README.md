@@ -13,7 +13,7 @@ This is a React + Vite project that demonstrates routing and component navigatio
 - Clean UI layout
 
 
-## Project Structure
+**Project Structure**
 
 ```
 vehicle-gallery-routing/
